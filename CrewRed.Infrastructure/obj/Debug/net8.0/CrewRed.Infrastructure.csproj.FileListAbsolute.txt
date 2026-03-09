@@ -1,0 +1,15 @@
+I:\CrewRed2\CrewRed\CrewRed.Infrastructure\obj\Debug\net8.0\CrewRed.Infrastructure.csproj.AssemblyReference.cache
+I:\CrewRed2\CrewRed\CrewRed.Infrastructure\obj\Debug\net8.0\CrewRed.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+I:\CrewRed2\CrewRed\CrewRed.Infrastructure\obj\Debug\net8.0\CrewRed.Infrastructure.AssemblyInfoInputs.cache
+I:\CrewRed2\CrewRed\CrewRed.Infrastructure\obj\Debug\net8.0\CrewRed.Infrastructure.AssemblyInfo.cs
+I:\CrewRed2\CrewRed\CrewRed.Infrastructure\obj\Debug\net8.0\CrewRed.Infrastructure.csproj.CoreCompileInputs.cache
+I:\CrewRed2\CrewRed\CrewRed.Infrastructure\bin\Debug\net8.0\CrewRed.Infrastructure.deps.json
+I:\CrewRed2\CrewRed\CrewRed.Infrastructure\bin\Debug\net8.0\CrewRed.Infrastructure.dll
+I:\CrewRed2\CrewRed\CrewRed.Infrastructure\bin\Debug\net8.0\CrewRed.Infrastructure.pdb
+I:\CrewRed2\CrewRed\CrewRed.Infrastructure\bin\Debug\net8.0\CrewRed.Application.dll
+I:\CrewRed2\CrewRed\CrewRed.Infrastructure\bin\Debug\net8.0\CrewRed.Application.pdb
+I:\CrewRed2\CrewRed\CrewRed.Infrastructure\obj\Debug\net8.0\CrewRed..CBA44A31.Up2Date
+I:\CrewRed2\CrewRed\CrewRed.Infrastructure\obj\Debug\net8.0\CrewRed.Infrastructure.dll
+I:\CrewRed2\CrewRed\CrewRed.Infrastructure\obj\Debug\net8.0\refint\CrewRed.Infrastructure.dll
+I:\CrewRed2\CrewRed\CrewRed.Infrastructure\obj\Debug\net8.0\CrewRed.Infrastructure.pdb
+I:\CrewRed2\CrewRed\CrewRed.Infrastructure\obj\Debug\net8.0\ref\CrewRed.Infrastructure.dll

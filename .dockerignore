@@ -1,0 +1,10 @@
+bin/
+obj/
+*.user
+.env
+.git/
+.gitignore
+duplicates.csv
+**/*.csv
+**/bin/
+**/obj/

@@ -1,0 +1,12 @@
+I:\CrewRed2\CrewRed\CrewRed.Application\obj\Debug\net8.0\CrewRed.Application.GeneratedMSBuildEditorConfig.editorconfig
+I:\CrewRed2\CrewRed\CrewRed.Application\obj\Debug\net8.0\CrewRed.Application.AssemblyInfoInputs.cache
+I:\CrewRed2\CrewRed\CrewRed.Application\obj\Debug\net8.0\CrewRed.Application.AssemblyInfo.cs
+I:\CrewRed2\CrewRed\CrewRed.Application\obj\Debug\net8.0\CrewRed.Application.csproj.CoreCompileInputs.cache
+I:\CrewRed2\CrewRed\CrewRed.Application\bin\Debug\net8.0\CrewRed.Application.deps.json
+I:\CrewRed2\CrewRed\CrewRed.Application\bin\Debug\net8.0\CrewRed.Application.dll
+I:\CrewRed2\CrewRed\CrewRed.Application\bin\Debug\net8.0\CrewRed.Application.pdb
+I:\CrewRed2\CrewRed\CrewRed.Application\obj\Debug\net8.0\CrewRed.Application.csproj.AssemblyReference.cache
+I:\CrewRed2\CrewRed\CrewRed.Application\obj\Debug\net8.0\CrewRed.Application.dll
+I:\CrewRed2\CrewRed\CrewRed.Application\obj\Debug\net8.0\refint\CrewRed.Application.dll
+I:\CrewRed2\CrewRed\CrewRed.Application\obj\Debug\net8.0\CrewRed.Application.pdb
+I:\CrewRed2\CrewRed\CrewRed.Application\obj\Debug\net8.0\ref\CrewRed.Application.dll
